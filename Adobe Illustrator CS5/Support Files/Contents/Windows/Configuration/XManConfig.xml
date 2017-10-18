@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration>
+    <VariableForExMan> 
+        <Data key="UserExtensionFolder">$InstallFolder/Configuration/Extensions</Data>
+        <Data key="$illustrator">$InstallFolder/../../..</Data>
+        <Data key="$plugin">$InstallFolder/../../../Plug-ins</Data>
+        <Data key="$scripting">$InstallFolder/../../../Scripting</Data>
+        <Data key="$presets">$InstallFolder/../../../Presets</Data>        
+        <Data key="DisplayName">Illustrator CS5</Data>
+        <Data key="ProductName">Illustrator</Data>
+        <Data key="ProductVersion">15.0</Data>
+        <Data key="HostNameForCSXS">ILST</Data>
+        <Data key="IconPath">Configuration/ai_app_24px.png</Data>
+        <Data key="SupportedInSuite">CS5</Data>
+        <Data key="DefaultLocale">en_US</Data>
+        <Data key="EmStorePath">$SharedRibsDataFolder/Adobe/Extension Manager CS5/Illustrator CS5</Data>
+        <Data key="Bit">32</Data>
+    </VariableForExMan>  
+</Configuration>
+
